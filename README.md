@@ -1,15 +1,13 @@
 # Email Microservice
 
-## Table of Contents
 
-- [Instalação](#installation)
-- [Configuração](#configuration)
-- [Uso](#usage)
-- [Endpoints](#api-endpoints)
+- [Instalação](#Instalação)
+- [Uso](#Uso)
+- [Endpoints](#Endpoints)
 - [Ferramentas utilizadas](#Ferramentas-utilizadas)
 - [Desenvolvedor](#Desenvolvedor)
 
-## Installation
+## Instalação
 
 1. Clone o repositório:
 
@@ -26,17 +24,17 @@ aws.region=us-east-1
 aws.accessKeyId=SUA_CHAVE
 aws.secretKey=SUA_SECRET_KEY
 ```
-## Usage
+## Uso
 
 1. Inicie a aplicação
 2. A api ficará acessível em http://localhost:8080
 
-## API Endpoints
+## Endpoints
 EndPoints para uso do serviço:
 
 **GET EMAIL**
 ```markdown
-POST /api/email/send - Send a e-mail from your sender to the destination
+POST /api/email/send - Envia e-mail
 ```
 
 **BODY**
@@ -50,7 +48,7 @@ POST /api/email/send - Send a e-mail from your sender to the destination
 
 ## Ferramentas-utilizadas
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
