@@ -57,5 +57,5 @@ POST /api/email/send - Envia e-mail
 
 ## Desenvolvedor
 
-| [<img src="https://avatars.githubusercontent.com/u/111542827?v=4" width=115><br><sub>Murilo Barbosa</sub>](https://github.com/Murilo358) 
+[<img src="https://avatars.githubusercontent.com/u/111542827?v=4" width=115><br><sub>Murilo Barbosa</sub>](https://github.com/Murilo358) 
 
